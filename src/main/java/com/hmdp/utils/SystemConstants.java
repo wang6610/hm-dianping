@@ -8,4 +8,5 @@ public class SystemConstants {
 
     public static final String USER_PHONE = "phone";
     public static final String USER_CODE = "code";
+    public static final String USER = "user";
 }
